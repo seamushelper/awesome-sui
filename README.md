@@ -4,7 +4,7 @@
 
 > A curated list of _awesome_ developer tools and infrastructure projects within the Sui ecosystem.
 
-Sui is the first blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It's programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen decentralized applications with minimal complexity.
+Sui is the first Blockchain built for internet scale, enabling fast, scalable, and low-latency transactions. It's programmable and composable, powered by the Move language, making it easy to build and integrate dApps. Sui prioritizes developer experience and frictionless user interactions, designed to support next-gen decentralized applications with minimal complexity.
 
 > ⚠️ This warning icon means that the tool may not be functioning correctly at the moment. Please check these tools carefully.
 
@@ -64,23 +64,23 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ### Client SDKs
 
-- Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui blockchain.
+- Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui Blockchain.
   - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/TypeScript) - [Documentation](https://sdk.mystenlabs.com/TypeScript) - [Further Information](details/sdk_sui_TypeScript.md)
 - Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
-- Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui blockchain.
+- Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
   - [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
-- Pysui - Python SDK to interact with Sui blockchain.
+- Pysui - Python SDK to interact with Sui Blockchain.
   - [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
-- Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
+- Sui Go SDK (SuiVision) - Golang SDK to interact with Sui Blockchain.
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
-- Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui blockchain. Support PTB and devInspect.
+- Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui Blockchain. Support PTB and devInspect.
   - [GitHub](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go_sui.md)
-- Sui Dart SDK - Dart SDK to interact with Sui blockchain.
+- Sui Dart SDK - Dart SDK to interact with Sui Blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
-- Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
+- Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui Blockchain.
   - [GitHub](https://github.com/mcxross/ksui) - [Documentation](https://suicookbook.com) - [Further Information](details/sdk_ksui.md)
-- SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui blockchain easy.
+- SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui Blockchain easy.
   - [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) - [Further Information](details/sdk_suikit.md)
 - Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   - [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) - [Further Information](details/sdk_sui_unity_opendive.md)
@@ -88,7 +88,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) - [Documentation](https://dubhe-docs.obelisk.build/)
 
 ### DeFi SDKs
-- [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
+- [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 - [Bucket Protocol SDK](https://github.com/Bucket-Protocol/bucket-protocol-sdk) - The TypeScript SDK for interacting with Bucket Protocol.
 - [Suilend SDK](https://github.com/suilend/suilend-fe-public/tree/main/sdk) - The TypeScript SDK for interacting with the Suilend program published on npm as [`@suilend/sdk`](https://www.npmjs.com/package/@suilend/sdk).
 - [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) - The TypeScript SDK for interacting with the Scallop lending protocol on the Sui network.
@@ -127,7 +127,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/suiet/wallet-kit) - [Documentation](https://kit.suiet.app/docs/QuickStart)
 - [Sui Suitcase](https://github.com/juzybits/polymedia-suitcase) - Sui utilities for TypeScript, Node, and React.
 - [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
-- [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui blockchain.
+- [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) - A frontend scaffold for a decentralized application (dApp) on the Sui Blockchain.
 - [Wormhole Kit (zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) - React library that enables instant integration of Wormhole into your dapp.
 - SuiBase - Suibase makes it easy to create "workdirs", each defining a distinct development environment targeting a network.
   - [GitHub](https://github.com/chainmovers/suibase) - [Documentation](https://suibase.io/)
@@ -194,7 +194,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://blockvision.org/) - [Documentation](https://docs.blockvision.org/reference/welcome-to-blockvision)
 - BlockBerry (Suiscan) - The Blockberry Sui API provides endpoints that reveal data about significant entities on the Sui Network. It indexes useful object metadata, including NFTs, domains, collections, coins, etc. Some data is drawn from third-party providers, particularly market data (coin prices, market cap, etc.).
   - [Homepage](https://blockberry.one/) - [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
-- Space And Time (SxT) - Verifiable compute layer for AI x blockchain. Decentralized data warehouse with sub-second ZK proof.
+- Space And Time (SxT) - Verifiable compute layer for AI x Blockchain. Decentralized data warehouse with sub-second ZK proof.
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
 - Birdeye Data Services - Access Crypto Market Data APIs on Sui.
   - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
@@ -224,7 +224,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 
 ## Oracles
 
-- Pyth Network - Oracle protocol that connects the owners of market data to applications on multiple blockchains including Sui.
+- Pyth Network - Oracle protocol that connects the owners of market data to applications on multiple Blockchains including Sui.
   - [Homepage](https://www.pyth.network/) - [Documentation](https://docs.pyth.network/home) - [Sui Tutorial](https://docs.pyth.network/price-feeds/use-real-time-data/sui) - [Further Information](details/oracle_pyth.md)
 - Supra Oracles - Oracle protocol to provide reliable data feed.
   - [Homepage](https://supra.com/) - [Sui Tutorial](https://docs.supra.com/oracles) - [Further Information](details/oracle_supra.md)
