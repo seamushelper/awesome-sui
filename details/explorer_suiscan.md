@@ -1,4 +1,4 @@
-# Tooling Name (Please Replace)
+# Tooling Name (Suiscan)
 
 ## Tooling Category
 
