@@ -227,7 +227,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 - Pyth Network - Oracle protocol that connects the owners of market data to applications on multiple Blockchains including Sui.
   - [Homepage](https://www.pyth.network/) - [Documentation](https://docs.pyth.network/home) - [Sui Tutorial](https://docs.pyth.network/price-feeds/use-real-time-data/sui) - [Further Information](details/oracle_pyth.md)
 - Supra Oracles - Oracle protocol to provide reliable data feed.
-  - [Homepage](https://supra.com/) - [Sui Tutorial](https://docs.supra.com/oracles) - [Further Information](details/oracle_supra.md)
+  - [Homepage](https://supra.com/) - [Sui Tutorial on Poll Oracle](https://docs.supra.com/oracles/data-feeds/pull-oracle#sui) - [Sui Tutorial on Push Oracle](https://docs.supra.com/oracles/data-feeds/push-oracle) - [Further Information](details/oracle_supra.md)
 - Switchboard - Data feed customization and management.
   - [Documentation](https://docs.switchboard.xyz/docs-by-chain/sui) - [Further Information](details/oracle_switchboard.md)
 
