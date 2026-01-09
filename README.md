@@ -67,7 +67,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 ### Client SDKs
 
 - Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui blockchain.
-  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/typescript) - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
+  - [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/TypeScript) - [Documentation](https://sdk.mystenlabs.com/TypeScript) - [Further Information](details/sdk_sui_TypeScript.md)
 - Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   - [GitHub](https://github.com/scallop-io/sui-kit) - [Further Information](details/sdk_sui_kit_scallop.md)
 - Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui blockchain.
@@ -77,7 +77,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - Sui Go SDK (SuiVision) - Golang SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/block-vision/sui-go-sdk) - [API Documentation](https://pkg.go.dev/github.com/block-vision/sui-go-sdk) - [Examples](https://github.com/block-vision/sui-go-sdk?tab=readme-ov-file#examples) - [Further Information](details/sdk_sui_go.md)
 - Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui blockchain. Support PTB and devInspect.
-  - [Github](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go_sui.md)
+  - [GitHub](https://github.com/pattonkan/sui-go) - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) - [Further Information](details/go_sui.md)
 - Sui Dart SDK - Dart SDK to interact with Sui blockchain.
   - [GitHub](https://github.com/mofalabs/sui) - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 - Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui blockchain.
@@ -163,7 +163,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Sui RPC Proxy](https://github.com/SuiSec/sui-rpc-proxy) - Monitor and analyze the network requests made by the Sui wallet application and Sui dApps.
 - [PTB Studio](https://ptb.studio) - Visual Programmable Transaction Block Builder.
   - [Documentation](https://suicookbook.com/ptb-studio.html)
-- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in typescript and uses prisma as an ORM.
+- [Indexer generator](https://www.npmjs.com/package/sui-events-indexer) - Code generating tool that will generate an indexer given a smart contract for all the events present. After that the user should remove unwanted events and fix the database schema and handlers (that write to the DB) according to their needs. The tool is written in TypeScript and uses Prisma as an ORM.
 
 ### Smart Contract Toolkits
 
@@ -184,7 +184,7 @@ Sui is the first blockchain built for internet scale, enabling fast, scalable, a
 - [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) - For building, and managing Dapps built on Dubhe Engine in Sui.
   - [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 - [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
-  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts
+  - [Sui Token CLI Tool](https://github.com/otter-sec/sui-token-gen) - A Rust-based Command-Line Interface (CLI) tool designed to simplify the process of generating and verifying Sui token smart contracts.
 
 ## Indexers & Data Services
 
