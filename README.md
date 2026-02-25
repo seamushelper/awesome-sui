@@ -196,6 +196,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [Homepage](https://blockberry.one/) - [Documentation](https://docs.blockberry.one/reference/sui-quickstart)
 - Space And Time (SxT) - Verifiable compute layer for AI x Blockchain. Decentralized data warehouse with sub-second ZK proof.
   - [Homepage](https://www.spaceandtime.io/) - [Documentation](https://docs.spaceandtime.io/) - [Further Documentation](details/indexer_space_and_time.md)
+- Codex - Blockchain data API providing real-time pricing and onchain data across 80+ networks including Sui.
+  - [Homepage](https://codex.io/) - [API Documentation](https://docs.codex.io/)
 - Birdeye Data Services - Access Crypto Market Data APIs on Sui.
   - [Homepage](https://bds.birdeye.so/) - [Blog](https://blog.sui.io/birdeye-data-services-crypto-api-websocket/) - [API Documentation](https://docs.birdeye.so/reference/intro/authentication)
 - Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
